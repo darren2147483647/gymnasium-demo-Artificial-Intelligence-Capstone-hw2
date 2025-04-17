@@ -26,3 +26,23 @@ Breakout(PPO) : 10000 episode, ~8hr
 Cart Pole : 200/200 (屹立不倒)
 Breakout(DQN) : 8/864 (有基本接球操作)
 Breakout(PPO) : 55/864 (堅持半分鐘，即將打穿第一堵牆)
+
+### 影音檔案
+
+(之後可能刪除)
+
+- Cart Pole:
+
+    使用DQN，達到滿分200分(生存至少200禎)
+
+    https://youtu.be/KimVFjLrQB8
+
+- Breakout:
+    
+    使用DQN，達到8分(滿分864)，存在類似”接球”的行為
+
+    https://youtu.be/Sj2U0GkLzk8
+
+    使用PPO，達到55分(滿分864)
+
+    https://youtu.be/5cflGU6pbXw
