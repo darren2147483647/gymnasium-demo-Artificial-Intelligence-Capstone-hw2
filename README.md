@@ -51,3 +51,13 @@ Breakout(PPO) : 55/864 (堅持半分鐘，即將打穿第一堵牆)
     使用PPO，達到55分(滿分864)
 
     https://youtu.be/5cflGU6pbXw
+
+### 參考文獻
+
+- carpole模型與訓練流程，但強化學習的算法似乎有誤，被我修正後可以用
+
+https://github.com/pyliaorachel/openai-gym-cartpole/tree/master
+
+- breakout模型與訓練流程，參考大部分訓練設置
+
+https://github.com/yyc0314/DQN_atari_breakout/blob/main/DQN_breakout.ipynb
