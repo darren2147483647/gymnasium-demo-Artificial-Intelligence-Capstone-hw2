@@ -18,7 +18,7 @@ Artificial Intelligence Capstone 作業二
 
 Cart Pole : 45000+ episode (但最好的權重在前2000內)
 
-Breakout(DQN) : 10510+ episode, ~12hr (還在訓練)
+Breakout(DQN) : 20000+ episode, ~21hr (還在訓練)
 
 Breakout(PPO) : 10000 episode, ~8hr
 
