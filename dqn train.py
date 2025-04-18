@@ -1,7 +1,3 @@
-"""
-Agent learns the policy based on Q-learning with Deep Q-Network.
-Based on the example here: https://morvanzhou.github.io/tutorials/machine-learning/torch/4-05-DQN/
-"""
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
