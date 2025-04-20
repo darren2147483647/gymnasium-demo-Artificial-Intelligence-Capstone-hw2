@@ -6,6 +6,8 @@ Artificial Intelligence Capstone 作業二
 - 使用強化學習模型訓練並遊玩gymnasium小遊戲
 - 實驗增進模型效能
 
+報告可見HW2.pdf
+
 ### demo 內容
 
 - Cart Pole(Classic control)
